@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Aisyah! 👋
 
-<!--
-**aisyahahmd04/aisyahahmd04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year student at Universiti Teknologi Malaysia (UTM), pursuing Computer Science in Data Engineering.
 
-Here are some ideas to get you started:
+## ABOUT ME
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Science student specializing in Data Engineering
+- 💻 Interested in data engineering, programming, and technology
+- 🌱 Currently learning C++, Python, and database management
+- 🚀 Looking forward to building exciting projects and developing new skills
+- ✨ Always eager to learn, explore, and improve myself
+
+## 🛠️ TECHNICAL SKILLS
+
+- **Programming Languages:** C++, Python
+- **Areas of Interest:** Data Engineering, Database Management, Software Development
+
+## 📫 CONTACTS
+
+- **LinkedIn:** 
+
+⭐ Thanks for visiting my GitHub profile! Feel free to explore my repositories and follow my learning journey.
